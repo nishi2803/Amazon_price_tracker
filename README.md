@@ -1,5 +1,5 @@
 # amazon-price-tracker
-This repo contains code of a simple amazon-price-tracker extension and server. Users can add products to track relative to their price . When price of a tracked item goes below the threshold value set by user a notification is sent to user.
+This repo contains code of a simple amazon-price-tracker extension and server. It keeps track of amazon product user want to purchase at a particular price, when price drops to a specified price it notifies the user. It helps users to save time as they don't need to manually open the amazon.in and check drop in price every day.
 
 ### Installation :
 * Download the package and run the following command in server directory to install all the dependencies:
